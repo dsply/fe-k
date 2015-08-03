@@ -5,7 +5,7 @@
 <head>
 	
 	<title><?php echo $title; ?></title>
-	<meta charset="<?php echo $sharset; ?>utf-8" />
+	<meta charset="<?php echo $sharset; ?>" />
 	<meta name="description" content="<?php echo $description; ?>" />
 	<meta name="keywords" content="<?php echo $keywords; ?>" />
 	<meta name="robots" content="index, follow" />
