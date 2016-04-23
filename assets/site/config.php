@@ -2,26 +2,26 @@
 	$lang = "fr";
 	$sharset = "UTF-8";
 	$description = "Simple website md";
-	$keywords = "Feük, design, dev";
+	$keywords = "Feük, design, dev, starck, starckio";
 
 	$title = "Feük";
-	$copyright = "Feük by <a href=\"http://www.dsply.fr\">Christopher Boutille</a>";
+	$copyright = "Feük by <a href=\"http://www.starck.io\">Christopher Boutille</a>";
 
 	# Url du site
-	$url = "http://localhost/simplemd/";
+	$url = "http://localhost/feuk/";
 
 	# Style
-	$css = "http://localhost/simplemd/assets/styles/";
+	$css = "assets/styles/";
 
 	# Jquery
-	$js = "http://localhost/simplemd/assets/js/";
+	$js = "assets/js/";
 
 	# Images
-	$img = "http://localhost/simplemd/assets/images/";
+	$img = "assets/images/";
 
 	# Twitter
-	$tweet = "<a href=\"https://twitter.com/bydsply\" target=\"_blank\">Twitter</a>";
+	$tweet = "<a href=\"https://twitter.com/starckio\" target=\"_blank\">Twitter</a>";
 
 	# Github
-	$github = "<a href=\"https://github.com/dsply\" target=\"_blank\">Github</a>";
+	$github = "<a href=\"https://github.com/starckio\" target=\"_blank\">Github</a>";
 ?>
